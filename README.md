@@ -13,10 +13,4 @@ Download it from Release page and paste it in MSCLoader mod folder.
 
 ## License
 
-
-
-## Support
-
-Like MOP? Consider buying me a beer :)
-
-[PayPal](https://www.paypal.me/figurakonrad)
+This software is licensed under The MIT License.
